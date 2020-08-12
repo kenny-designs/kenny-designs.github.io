@@ -55,7 +55,7 @@ author:
 
 ## => GitHub Repository (if the site is hosted by GitHub)
 ##############################
-repository: user_name/repo_name
+repository: kenny-designs/kenny-designs.github.io
 repository_tree: master
 
 
@@ -201,7 +201,14 @@ exclude:
   - /test
   - /vendor
 
+collections:
+  projects:
+    output: true
+  articles:
+    output: true
+
 defaults:
+  ## posts
   - scope:
       path: ""
       type: posts
@@ -214,6 +221,20 @@ defaults:
       show_edit_on_github: true
       show_subscribe: true
       pageview: true
+  ## projects
+  - scope:
+      path: ""
+      type: projects
+    values:
+      nav_key: projects
+      show_date: false
+  ## articles
+  - scope:
+      path: ""
+      type: articles
+    values:
+      nav_key: articles
+
 
 
 ## => Plugins
