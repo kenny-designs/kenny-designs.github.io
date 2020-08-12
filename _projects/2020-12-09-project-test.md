@@ -1,6 +1,9 @@
 ---
 layout: article
 title: My Very First Project
+permalink: /page/article-header-overlay-background-image-immersive-translucent-header.html
+key: page-article-header-overlay-background-image-ITH
+cover: /assets/images/projects/low-poly-beach.jpg
 mode: immersive
 header:
   theme: dark
@@ -9,8 +12,9 @@ article_header:
   theme: dark
   background_color: '#203028'
   background_image:
-    gradient: 'linear-gradient(135deg, rgba(34, 139, 87 , .4), rgba(139, 34, 139, .4))'
-    src: /docs/assets/images/cover3.jpg
+    gradient: 'linear-gradient(135deg, rgba(34, 139,87 , .4), rgba(139, 34, 139, .4))'
+    src: /assets/images/projects/low-poly-beach.jpg
 ---
+
 
 Doing a simple test...
