@@ -1,6 +1,7 @@
 ---
 layout: article
 title: Phong Light Model
+tags: lighting opengl
 cover: /assets/images/articles/my-lighthouse.jpg
 article_header:
   type: overlay
