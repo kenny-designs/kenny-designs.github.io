@@ -227,7 +227,6 @@ defaults:
       type: projects
     values:
       nav_key: projects
-      show_date: false
   ## articles
   - scope:
       path: ""
