@@ -1,8 +1,6 @@
 ---
 layout: article
 title: Phong Light Model
-permalink: /page/article-header-overlay-background-image-immersive-translucent-header.html
-key: page-article-header-overlay-background-image-ITH
 cover: /assets/images/articles/my-lighthouse.jpg
 mode: immersive
 header:
