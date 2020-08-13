@@ -1,7 +1,7 @@
 ---
 layout: article
-title: My Very First Project
-tags: games unity
+title: Graphic Design
+tags: graphics design art
 cover: /assets/images/projects/low-poly-beach.jpg
 article_header:
   type: overlay
@@ -12,6 +12,7 @@ article_header:
     src: /assets/images/projects/low-poly-beach.jpg
 ---
 
+Here is some information about graphics!
 
-Doing a simple test...
-
+## Did you know that stuff and things?
+Yes. Stuff. Also, things.
