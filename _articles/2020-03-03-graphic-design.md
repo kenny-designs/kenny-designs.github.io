@@ -14,5 +14,7 @@ article_header:
 
 Here is some information about graphics!
 
+<!--more-->
+
 ## Did you know that stuff and things?
 Yes. Stuff. Also, things.

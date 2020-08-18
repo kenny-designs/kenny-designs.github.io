@@ -1,15 +1,20 @@
 ---
-title: Alexander M. Aguilar
 layout: article
+title: Alexander M. Aguilar
 header: true
 mode: immersive
 article_header:
-  theme: dark
   type: overlay
+  theme: dark
   background_color: '#203028'
   background_image:
     gradient: 'linear-gradient(135deg, rgba(34, 139,87 , .4), rgba(139, 34, 139, .4))'
-    src: /assets/images/projects/low-poly-beach.jpg
+    src: /assets/images/articles/my-lighthouse.jpg
 ---
 
+Stuff and things Lory
+
+<!--more-->
+
 ## Hello World!
+Hola

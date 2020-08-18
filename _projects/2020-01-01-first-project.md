@@ -12,6 +12,6 @@ article_header:
     src: /assets/images/projects/low-poly-beach.jpg
 ---
 
-
 Doing a simple test...
 
+<!--more-->
