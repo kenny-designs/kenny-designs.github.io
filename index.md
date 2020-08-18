@@ -1,8 +1,6 @@
 ---
 layout: article
 title: Alexander M. Aguilar
-header: true
-mode: immersive
 article_header:
   type: overlay
   theme: dark
