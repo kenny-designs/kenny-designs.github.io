@@ -28,9 +28,9 @@ titles:
 <div class="layout--archive js-all">
   {%- include tags.html -%}
   <div class="js-result layout--archive__result d-none">
-    <!-- Added my own code to combine posts -->
-    {%- assign all-posts = site.posts | concat: site.projects | concat: site.articles -%}
-    {%- include article-list.html articles=all-posts type='brief' show_info=true reverse=true group_by='year' -%}
+    <!-- Added my own code to combine posts, projects, and articles -->
+    {%- assign _all_posts = site.posts | concat: site.projects | concat: site.articles -%}
+    {%- include article-list.html articles=_all_posts type='brief' show_info=true reverse=true group_by='year' -%}
   </div>
 </div>
 
