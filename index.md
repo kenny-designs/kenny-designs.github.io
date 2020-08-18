@@ -1,6 +1,7 @@
 ---
 layout: article
 title: Alexander M. Aguilar
+excerpt: Software, Graphics, Games, and Web
 article_header:
   type: overlay
   theme: dark
@@ -9,10 +10,6 @@ article_header:
     gradient: 'linear-gradient(135deg, rgba(34, 139,87 , .4), rgba(139, 34, 139, .4))'
     src: /assets/images/articles/my-lighthouse.jpg
 ---
-
-Stuff and things Lory
-
-<!--more-->
 
 ## Hello World!
 Hola

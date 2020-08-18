@@ -1,6 +1,7 @@
 ---
 layout: article
 title: Graphic Design
+excerpt: Here is some information about graphics!
 tags: graphics design art
 cover: /assets/images/projects/low-poly-beach.jpg
 article_header:
@@ -11,10 +12,6 @@ article_header:
     gradient: 'linear-gradient(135deg, rgba(34, 139, 87, .4), rgba(139, 34, 139, .4))'
     src: /assets/images/projects/low-poly-beach.jpg
 ---
-
-Here is some information about graphics!
-
-<!--more-->
 
 ## Did you know that stuff and things?
 Yes. Stuff. Also, things.

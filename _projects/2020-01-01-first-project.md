@@ -1,6 +1,7 @@
 ---
 layout: article
 title: My Very First Project
+excerpt: Doing a simple test...
 tags: games unity
 cover: /assets/images/projects/low-poly-beach.jpg
 article_header:
@@ -11,7 +12,3 @@ article_header:
     gradient: 'linear-gradient(135deg, rgba(34, 139, 87, .4), rgba(139, 34, 139, .4))'
     src: /assets/images/projects/low-poly-beach.jpg
 ---
-
-Doing a simple test...
-
-<!--more-->

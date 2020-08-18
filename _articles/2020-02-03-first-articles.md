@@ -1,6 +1,7 @@
 ---
 layout: article
 title: Phong Light Model
+excerpt: Introduction to the Phong Lighting Model
 tags: lighting opengl
 cover: /assets/images/articles/my-lighthouse.jpg
 article_header:
@@ -11,10 +12,6 @@ article_header:
     gradient: 'linear-gradient(135deg, rgba(34, 139, 87, .4), rgba(139, 34, 139, .4))'
     src: /assets/images/articles/my-lighthouse.jpg
 ---
-
-This is how we do that thing!
-
-<!--more-->
 
 ## More Stuff
 Here is some more stuff.
