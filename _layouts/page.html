@@ -151,6 +151,16 @@ layout: base
                     {%- if page.excerpt -%}
                       <p class="overlay__excerpt">{{ page.excerpt | strip_html | strip_newlines | strip | truncate: _article_header_excerpt_truncate }}</p>
                     {%- endif -%}
+
+                    <!-- TODO: Display Repo Metadata -->
+                    {%- if page.repo -%}
+                      {%- assign repo = site.github.public_repositories | find: "full_name", page.repo -%}
+                      <p class="overlay__excerpt">
+                        Stars: {{ repo.stargazers_count }} <br>
+                        <a href="{{ repo.html_url }}" rel="noopener noreferrer" target="_blank">{{ repo.full_name }}</a>
+                      </p>
+                    {%- endif -%}
+                    
                     {%- if page.article_header.actions -%}
                       <ul class="menu">
                         {%- for _action in page.article_header.actions -%}
