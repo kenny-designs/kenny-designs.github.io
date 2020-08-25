@@ -38,7 +38,6 @@
   {%- if _show_tags or _show_author or _show_date or _pageview -%}
     <div class="article__info clearfix">
       {%- if _show_tags -%}
-
         <ul class="left-col menu">
           {%- assign _tag_path = _paths_archive | append: '?tag=' -%}
           {%- include snippets/prepend-baseurl.html path=_tag_path -%}
@@ -73,6 +72,17 @@
               {%- assign _locale_views = __return -%}
               <li><i class="far fa-eye"></i> <span class="js-pageview" data-page-key="{{ include.article.key }}">0</span> {{ _locale_views }}</li>
             {%- endif -%}
+          {%- endif -%}
+
+          {%- assign _repo = site.github.public_repositories | find: "full_name", page.repo -%}
+          {%- if _repo -%}
+            <li>
+              <a href="{{ _repo.html_url }}" rel="noopener noreferrer" target="_blank">GitHub</a>
+            </li>
+
+            <li>
+              <i class="far fa-star"></i> {{ _repo.stargazers_count }}
+            </li>
           {%- endif -%}
         </ul>
       {%- endif -%}
