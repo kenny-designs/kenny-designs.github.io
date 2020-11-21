@@ -9,15 +9,15 @@ header:
       # @end locale config
     url: /projects.html
 
-  - titles:
-      # @start locale config
-      en      : &EN       Articles
-      en-GB   : *EN
-      en-US   : *EN
-      en-CA   : *EN
-      en-AU   : *EN
-      # @end locale config
-    url: /articles.html
+#  - titles:
+#      # @start locale config
+#      en      : &EN       Articles
+#      en-GB   : *EN
+#      en-US   : *EN
+#      en-CA   : *EN
+#      en-AU   : *EN
+#      # @end locale config
+#    url: /articles.html
 
   - titles:
       # @start locale config
