@@ -31,6 +31,16 @@ header:
 
   - titles:
       # @start locale config
+      en      : &EN       About Me
+      en-GB   : *EN
+      en-US   : *EN
+      en-CA   : *EN
+      en-AU   : *EN
+      # @end locale config
+    url: https://github.com/kenny-designs
+
+  - titles:
+      # @start locale config
       en      : &EN       GitHub
       en-GB   : *EN
       en-US   : *EN
