@@ -18,12 +18,16 @@ As the title denotes, this is a collection of various Unity games I've made. The
 were all created with the help of the Udemy tutorial series
 [Complete C# Unity Game Developer 2D](https://www.udemy.com/course/unitycourse/)
 and [Complete C# Unity Game Developer 3D](https://www.udemy.com/course/unitycourse2/).
-As such, I didn't want to make dedicated project page for each game but I'd still
+As such, I didn't want to make a dedicated project page for each game but I'd still
 like to show off what I managed to create! I put a lot of effort into these games
 and I hope you enjoy trying them out!
 
 # Argon Assault
 [GitHub](https://github.com/kenny-designs/ArgonAssault) and [Live Game](https://kenny-designs.github.io/ArgonAssault/WebGL/index.html)
+
+**Controls:**
+- WASD to move
+- Spacebar to shoot
 
 Argon Assault is a [Starfox](https://en.wikipedia.org/wiki/Star_Fox) styled game
 in which the player flies a spaceship and attempts to get a highscore by destroying
@@ -42,6 +46,11 @@ projectiles.
 # Boost
 [GitHub](https://github.com/kenny-designs/ProjectBoost) and [Live Game](https://kenny-designs.github.io/ProjectBoost/WebGL/index.html)
 
+**Controls:**
+- W to rotate left
+- D to rotate right
+- Spacebar to thrust
+
 Boost is a game in which the player must guide their rocket to the end of the
 level without crashing into anything. If they do, then they must try again from
 the start.
@@ -57,6 +66,11 @@ and implement collision.
 
 # Tilevania
 [GitHub](https://github.com/kenny-designs/TileVania) and [Live Game](https://kenny-designs.github.io/TileVania/WebGL/index.html)
+
+**Controls:**
+- W to move left
+- D to move right
+- Spacebar to jump
 
 Tilevania is a platformer in the traditional Mario sense where they must travel
 to the end of the stage whilst collecting coins for points and avoiding enemies
@@ -76,6 +90,11 @@ has tiles change depending on what was placed around them.
 # Terminal Hacker
 [GitHub](https://github.com/kenny-designs/TerminalHacker) and [Live Game](https://kenny-designs.github.io/TerminalHacker/WebGL/)
 
+**Controls:**
+- Number keys for choices
+- Enter to submit
+- A-Z keys to type answers
+
 Terminal Hacker is a simple game in which you are trying to hack into various servers.
 You choose where you want to hack into and are given some scrambled letters. Guess
 the right word formed by those letters and you're in!
@@ -92,6 +111,10 @@ game.
 # Laser Defender
 [GitHub](https://github.com/kenny-designs/LaserDefender) and [Live Game](https://kenny-designs.github.io/LaserDefender/WebGL/)
 
+**Controls:**
+- WASD keys to move
+- Spacebar to shoot
+
 Laser Defender is a [shoot 'em up](https://en.wikipedia.org/wiki/Shoot_%27em_up)
 styled game in which the player must survive hordes of enemy spaceships whilst
 taking them out with their own weapons for a high score.
@@ -106,3 +129,21 @@ creating reusable spawn waves for enemy spaceships to help design levels with.
 *A player trying their best to stay alive and take out as many baddies as they can!*
 
 # Block Breaker
+[GitHub](https://github.com/kenny-designs/BlockBreaker) and [Live Game](https://kenny-designs.github.io/BlockBreaker/WebGL/)
+
+**Controls:**
+- Mouse to move the paddle left and right
+
+Block Breaker is a simple game in which you bounce a ball off a paddle and attempt
+to break all the blocks in the level (hence the name!). If you accidentally let
+the ball go off the screen, you lose!
+
+
+## What I Learned
+I learned to program mouse movement for the paddle, make ball bounce, break
+bricks, earn points, and build levels with those bricks.
+
+![BlockBreakerGameplay1](/assets/images/projects/unityGamesCollection/block-breaker-gameplay1.png){:.rounded.image--center}
+
+{:.text--center}
+*A player in the midst of trying to trying to break all those nasty bricks!*
