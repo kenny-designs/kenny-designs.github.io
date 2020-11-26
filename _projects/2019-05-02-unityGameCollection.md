@@ -18,7 +18,7 @@ As the title denotes, this is a collection of various Unity games I've made. The
 were all created with the help of the Udemy tutorial series
 [Complete C# Unity Game Developer 2D](https://www.udemy.com/course/unitycourse/)
 and [Complete C# Unity Game Developer 3D](https://www.udemy.com/course/unitycourse2/).
-As such, I didn't want to make dedicated project pages to each game but I'd still
+As such, I didn't want to make dedicated project page for each game but I'd still
 like to show off what I managed to create! I put a lot of effort into these games
 and I hope you enjoy trying them out!
 
@@ -74,7 +74,6 @@ has tiles change depending on what was placed around them.
 *A player observing the terrible predicament they find themselves in.*
 
 # Terminal Hacker
-
 [GitHub](https://github.com/kenny-designs/TerminalHacker) and [Live Game](https://kenny-designs.github.io/TerminalHacker/WebGL/)
 
 Terminal Hacker is a simple game in which you are trying to hack into various servers.
@@ -89,3 +88,21 @@ game.
 
 {:.text--center}
 *A very skilled and dangerous hacker (you!) deciding where to hack next...*
+
+# Laser Defender
+[GitHub](https://github.com/kenny-designs/LaserDefender) and [Live Game](https://kenny-designs.github.io/LaserDefender/WebGL/)
+
+Laser Defender is a [shoot 'em up](https://en.wikipedia.org/wiki/Shoot_%27em_up)
+styled game in which the player must survive hordes of enemy spaceships whilst
+taking them out with their own weapons for a high score.
+
+## What I Learned
+I learned how to program player movement, shooting, lives, and points along with
+creating reusable spawn waves for enemy spaceships to help design levels with.
+
+![LaserDefenderGameplay1](/assets/images/projects/unityGamesCollection/laser-defender-gameplay1.png){:.rounded.image--center}
+
+{:.text--center}
+*A player trying their best to stay alive and take out as many baddies as they can!*
+
+# Block Breaker
