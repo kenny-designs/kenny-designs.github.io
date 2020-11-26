@@ -2,7 +2,7 @@
 layout: article
 title: My Pet Acadamia
 excerpt: A Pokemon Styled Online Pet Collecting Game!
-tags: games java jsp mysql
+tags: games Java jsp MySQL
 cover: /assets/images/projects/myPetAcadamia/battle-screen.png
 repo: kenny-designs/my-pet-acadamia
 article_header:
