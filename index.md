@@ -36,7 +36,7 @@ article_header:
     </p>
 
     <p>
-      Or perhaps you'd like to learn a little bit more <a href="">about me?</a>
+      Or perhaps you'd like to learn a little bit more <a href="./about.html">about me?</a>
     </p>
 
     <p>
