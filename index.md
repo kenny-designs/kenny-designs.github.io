@@ -11,6 +11,9 @@ article_header:
     src: /assets/images/articles/my-lighthouse.jpg
 ---
 
+{:.text--center}
+# Welcome to My Portfolio Site!
+
 <div class="card" style="max-width: 100%;">
     <div class="card__image" style="padding-top: 4em; padding-bottom: 4em; background-image: linear-gradient(45deg, #003223, #52A6A8);">
     <img class="image circle shadow" style="width: 40%; margin-left: auto; margin-right: auto;" src="/assets/images/about/alex-selfie.jpg"/>
@@ -43,7 +46,7 @@ article_header:
     <hr>
 
     <p>
-      By the way, feel free to send me an email at alex.mac.aguilar@gmail.com.
+      By the way, feel free to send me an email at <b>alex.mac.aguilar@gmail.com.</b>
       I'd love to hear from ya!
     </p>
   </div>
