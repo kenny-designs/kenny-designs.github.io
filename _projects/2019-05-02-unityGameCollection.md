@@ -38,3 +38,37 @@ projectiles.
 
 {:.text--center}
 *A player fighting off enemy ships.*
+
+# Boost
+[GitHub](https://github.com/kenny-designs/ProjectBoost) and [Live Game](https://kenny-designs.github.io/ProjectBoost/WebGL/index.html)
+
+Boost is a game in which the player must guide their rocket to the end of the
+level without crashing into anything. If they do, then they must try again from
+the start.
+
+## What I Learned
+In this project I learned how to set up minimalistic levels, program rocket movement,
+and implement collision.
+
+![BoostGameplay1](/assets/images/projects/unityGamesCollection/boost-gameplay1.png){:.rounded.image--center}
+
+{:.text--center}
+*A player taking flight through the level.*
+
+# Tilevania
+[GitHub](https://github.com/kenny-designs/TileVania) and [Live Game](https://kenny-designs.github.io/TileVania/WebGL/index.html)
+
+Tilevania is a platformer in the traditional Mario sense where they must travel
+to the end of the stage whilst collecting coins for points and avoiding enemies
+and traps.
+
+## What I Learned
+Throughout this project, I learned to program basic platformer controls and
+features including lives, score, and levels. I also learned to implement a level
+editor that allows for painting tiles to the screen to make new levels and even
+has tiles change depending on what was placed around them.
+
+![TilevaniaGameplay1](/assets/images/projects/unityGamesCollection/tilevania-gameplay1.png){:.rounded.image--center}
+
+{:.text--center}
+*A player observing the terrible predicament they find themselves in.*
