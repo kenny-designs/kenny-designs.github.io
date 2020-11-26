@@ -11,5 +11,4 @@ article_header:
     src: /assets/images/about/cranes-v2.png
 ---
 
-{:.text--center}
-## Welcome To My Personal Website!
+## Who Is This Guy?

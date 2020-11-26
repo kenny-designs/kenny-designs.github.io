@@ -11,12 +11,9 @@ article_header:
     src: /assets/images/articles/my-lighthouse.jpg
 ---
 
-{:.text--center}
-## Welcome To My Personal Website!
-
 <div class="card" style="max-width: 100%;">
-  <div class="card__image card__background" style="padding-top: 6em; padding-bottom: 6em;">
-    <img class="image circle shadow border" style="width: 30%; margin-left: auto; margin-right: auto;" src="/assets/images/homepage/swirl.jpg"/>
+    <div class="card__image" style="padding-top: 4em; padding-bottom: 4em; background-image: linear-gradient(45deg, #003223, #52A6A8);">
+    <img class="image circle shadow" style="width: 40%; margin-left: auto; margin-right: auto;" src="/assets/images/about/alex-selfie.jpg"/>
   </div>
   <div class="card__content">
     <div class="card__header">
@@ -43,14 +40,10 @@ article_header:
       Maybe you'd like to take a gander at this fella's <a href="https://github.com/kenny-designs">GitHub?</a>
     </p>
 
-    <p>
-      Whatever you chose to do, I hope you enjoyed what you saw!
-    </p>
-
     <hr>
 
     <p>
-      By the way. Feel free to send me an email at alex.mac.aguilar@gmail.com.
+      By the way, feel free to send me an email at alex.mac.aguilar@gmail.com.
       I'd love to hear from ya!
     </p>
   </div>
