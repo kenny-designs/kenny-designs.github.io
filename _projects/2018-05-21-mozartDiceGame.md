@@ -2,7 +2,7 @@
 layout: article
 title: Mozart Musical Dice Game
 excerpt: A recreation of the classic Mozart Musical Dice game for the web
-tags: games web javascript
+tags: games web JavaScript
 cover: /assets/images/projects/mozartDiceGame/mozartUIHorizontal.png
 repo: kenny-designs/mozartDiceGame
 article_header:
