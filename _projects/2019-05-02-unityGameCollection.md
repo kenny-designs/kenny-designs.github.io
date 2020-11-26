@@ -72,3 +72,20 @@ has tiles change depending on what was placed around them.
 
 {:.text--center}
 *A player observing the terrible predicament they find themselves in.*
+
+# Terminal Hacker
+
+[GitHub](https://github.com/kenny-designs/TerminalHacker) and [Live Game](https://kenny-designs.github.io/TerminalHacker/WebGL/)
+
+Terminal Hacker is a simple game in which you are trying to hack into various servers.
+You choose where you want to hack into and are given some scrambled letters. Guess
+the right word formed by those letters and you're in!
+
+## What I Learned
+I learned how to work with text, take user input, and process that input for the
+game.
+
+![TerminalHackerGameplay1](/assets/images/projects/unityGamesCollection/terminal-hacker-gameplay1.jpeg){:.rounded.image--center}
+
+{:.text--center}
+*A very skilled and dangerous hacker (you!) deciding where to hack next...*
