@@ -13,7 +13,7 @@ article_header:
 
 # Who Is This Guy?
 
-![Alex](/assets/images/about/alex-selfie.jpg){:.circle.shadow.image--xl.image--center}
+![Alex](/assets/images/about/alex-selfie-square.png){:.circle.shadow.image--xl.image--center}
 
 {:.text--center}
 *Hey I'm Alexander :3*
