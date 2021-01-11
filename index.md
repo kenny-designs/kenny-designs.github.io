@@ -43,6 +43,10 @@ article_header:
       Maybe you'd like to take a gander at this fella's <a href="https://github.com/kenny-designs">GitHub?</a>
     </p>
 
+    <p>
+      I'm also on <a href="https://www.linkedin.com/in/alexander-m-aguilar/">LinkedIn!</a>
+    </p>
+
     <hr>
 
     <p>
