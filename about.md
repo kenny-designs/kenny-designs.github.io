@@ -13,25 +13,22 @@ article_header:
 
 # Who Is This Guy?
 
-![Alex](/assets/images/about/alex-selfie.jpg){:.circle.shadow.image--xl.image--center}
+![Alex](/assets/images/about/alex-selfie-square.png){:.circle.shadow.image--xl.image--center}
 
 {:.text--center}
 *Hey I'm Alexander :3*
 
 ## Introductions
-If you wanna know more about my skills, scroll on down to the next section! There's
-a lot to read! Anyways, allow me to introduce myself.
-
 I am a programmer and a bit of an artist as well (the header image I made myself in Blender!)
 I started programming in my early teens because I had a huge interest in making
 games. I didn't really have anyone to show me the ropes so I took it upon myself
 to grab whatever books I could to learn to program.
 
-From there, I would dabble with programming and even spent some time pursuing 3D
-art. I would go on to make my own little game engine with DirectX and found the
-programming to be so much fun that I'd like to make it into my career!
+From there, I spent a lot of time playing with code and pursuing 3D art. I would go on to
+make my own little game engine with DirectX and found the programming to be so much fun
+that I wanted to turn it into a career!
 
-Now, I'm finishing up my BS in Computer Science at Brooklyn College and am excited
+As of now, I'm finishing up my BS in Computer Science at Brooklyn College and am excited
 to begin working as a programmer!
 
 ## Programming
@@ -39,7 +36,7 @@ First and foremost, I am a programmer! Ever since I was a young teen, I've been
 messing with code. In the many years since, I've worked with tons of languages
 to create all sorts of projects.
 
-### Languages
+### Programming Languages
 - C++
 - C#
 - JavaScript
@@ -48,20 +45,21 @@ to create all sorts of projects.
 - GLSL
 - PHP
 
-I'm also experienced in SQL albeit I wouldn't quite say that's a programming
-language in itself! Same goes for HTML and CSS.
+I'm also experienced in SQL, HTML, and CSS albeit I wouldn't quite say those are programming
+languages!
 
 ## Technologies & Software
-In addition to knowing how to use various languages, I'm also experienced in
-various frameworks, libraries, software, etc.
+In addition to programming itself, I'm also experienced in various frameworks, libraries,
+software, etc.
 
 ### Game Engines
 - Unreal Engine 4
 - Unity
 - Phaser
+- PyGame
 - RenPy
 
-### Graphics Related
+### Graphics/GUI Related
 - OpenGL
 - DirectX
 - Qt
@@ -76,6 +74,7 @@ various frameworks, libraries, software, etc.
 - React
 - npm
 - Jekyll (which this site was made from!)
+- Tone.js
 
 ### Software
 - Linux (❤️ Debian)
@@ -97,22 +96,20 @@ I am a member of the **Honor Society for the Computing and Information Disciplin
 I've taken the following classes related to programming:
 
 ### Classes Finished
-- Modern Programming Techniques
-- Robotics
+- Programming Paradigms in C++
+- Modern Programming Techniques (Java)
 - Data Structures
-- Web Applications
-- Multivariable Calculus
+- Design and Implementation of Large-Scale Web Applications
+- Operating Systems
 - Computer Architecture
+- Theoretical Computer Science
+- Robotics
+- Linear Algebra
+- Multivariable Calculus
 
 ### Classes In Progress
-- Theoretical Computer Science
-- Operating Systems
-- C++ Paradigms
-- Linear Algebra
-
-### Classes Enrolled To Take
-- Computer Graphics Programming
 - Algorithms
+- Computer Graphics Programming
 
 ## Experience
 I've also had some intern experience!

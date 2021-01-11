@@ -16,7 +16,7 @@ article_header:
 
 <div class="card" style="max-width: 100%;">
     <div class="card__image" style="padding-top: 4em; padding-bottom: 4em; background-image: linear-gradient(45deg, #003223, #52A6A8);">
-    <img class="image circle shadow" style="width: 40%; margin-left: auto; margin-right: auto;" src="/assets/images/about/alex-selfie.jpg"/>
+    <img class="image circle shadow" style="width: 40%; margin-left: auto; margin-right: auto;" src="/assets/images/about/alex-selfie-square.png"/>
   </div>
   <div class="card__content">
     <div class="card__header">
