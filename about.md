@@ -38,12 +38,11 @@ to create all sorts of projects.
 
 ### Programming Languages
 - C++
-- C#
 - JavaScript
 - Java
+- C#
 - Python
 - GLSL
-- PHP
 
 I'm also experienced in SQL, HTML, and CSS albeit I wouldn't quite say those are programming
 languages!
@@ -64,6 +63,7 @@ software, etc.
 - DirectX
 - Qt
 - GLFW
+- Three.js
 
 ### Web Related
 - Node.js
@@ -86,7 +86,7 @@ software, etc.
 - Gimp
 
 ## College
-I'm currently a senior attending Brooklyn College in NYC. I'm studying Computer
+I'm currently a senior attending Brooklyn College in NYC. I am studying Computer
 Science with an expected graduation date of June 2021.
 
 I have a **3.9/4.0 GPA**.
@@ -112,13 +112,12 @@ I've taken the following classes related to programming:
 - Computer Graphics Programming
 
 ## Experience
-I've also had some intern experience!
 
-I worked as a programmer with the **NYU Music Experience Design Lab** from June
+I interned as a programmer with the **NYU Music Experience Design Lab** from June
 to September in 2017.
 
 ### Front-End Developer
-- Main developer for rhythm game based web application *Lyric Blaster*
-- Finalized web application from an existing prototype
-- Collaborated with developers and musicians
-- Utilized JavaScript, HTML, CSS, Git, the music framework Tone.js, and Gulp
+- Overhauled the lab’s prototype web game Lyric Blaster into a polished experience over 2 months.
+- Collaborated with the lead engineer of the lab and musicians to improve gameplay and UI.
+- Coded the project with JavaScript, HTML and CSS for the GUI and Tone.js to manage music.
+- Co-ordinated with team members via Slack and GitHub to review code and gather feedback.
